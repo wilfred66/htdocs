@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>WilfredStorm</title>
+    <h1> Welcome to WilfredStrom <h1>
+  </head>
+
+  <body>
+
+    <h2> Home </h2>
+
+    <p> WilfredStorm is a intreactive platform where you can learn code </p>
+
+    <select>
+      <option>Html</option>
+      <option>CSS</option>
+      <option>Php</option>
+      <option>Java</option>
+    </selct>
+
+
+
+
+
+
+  </body>
+</html>
